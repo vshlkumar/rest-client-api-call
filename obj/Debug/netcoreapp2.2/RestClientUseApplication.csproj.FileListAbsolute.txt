@@ -1,0 +1,11 @@
+G:\project\RestClientUseApplication\bin\Debug\netcoreapp2.2\RestClientUseApplication.deps.json
+G:\project\RestClientUseApplication\bin\Debug\netcoreapp2.2\RestClientUseApplication.runtimeconfig.json
+G:\project\RestClientUseApplication\bin\Debug\netcoreapp2.2\RestClientUseApplication.runtimeconfig.dev.json
+G:\project\RestClientUseApplication\bin\Debug\netcoreapp2.2\RestClientUseApplication.dll
+G:\project\RestClientUseApplication\obj\Debug\netcoreapp2.2\RestClientUseApplication.csprojAssemblyReference.cache
+G:\project\RestClientUseApplication\obj\Debug\netcoreapp2.2\RestClientUseApplication.csproj.CoreCompileInputs.cache
+G:\project\RestClientUseApplication\obj\Debug\netcoreapp2.2\RestClientUseApplication.AssemblyInfoInputs.cache
+G:\project\RestClientUseApplication\obj\Debug\netcoreapp2.2\RestClientUseApplication.AssemblyInfo.cs
+G:\project\RestClientUseApplication\bin\Debug\netcoreapp2.2\RestClientUseApplication.pdb
+G:\project\RestClientUseApplication\obj\Debug\netcoreapp2.2\RestClientUseApplication.dll
+G:\project\RestClientUseApplication\obj\Debug\netcoreapp2.2\RestClientUseApplication.pdb
